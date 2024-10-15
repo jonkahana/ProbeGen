@@ -4,10 +4,10 @@ Official implementation for
 <pre>
 <b>Deep Linear Probe Generators for Weight Space Learning</b>
 <a href="https://pages.cs.huji.ac.il/jonkahana/">Jonathan Kahana</a>, <a href="https://pages.cs.huji.ac.il/eliahu-horwitz/">Eliahu Horwitz</a>, <a href="https://www.linkedin.com/in/imri-shuval-23217b207/?originalSubdomain=il">Imri Shuval</a>, <a href="https://www.cs.huji.ac.il/~yedid/">Yedid Hoshen</a>
-<a href="https://arxiv.org/abs/TODO">https://arxiv.org/abs/TODO</a> 
+<a href="https://arxiv.org/abs/2410.10811">https://arxiv.org/abs/2410.10811</a> 
 </pre>
 
-[![arXiv](https://img.shields.io/TODO)](https://arxiv.org/abs/TODO)
+[![arXiv](https://img.shields.io/badge/arXiv-2410.10811-b31b1b)](https://arxiv.org/abs/2410.10811)
 
 <picture>
     <img alt="ProbeGen" src="assets/ProbeGen_diagram.png">
