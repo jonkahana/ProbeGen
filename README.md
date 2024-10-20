@@ -140,7 +140,12 @@ To run the synthetic data experiments, you can use the provided scripts in the `
 If you find our work or this code to be useful in your own research, please consider citing the following paper:
 
 ```bib
-    TODO
+    @article{kahana2024deep,
+  title={Deep Linear Probe Generators for Weight Space Learning},
+  author={Kahana, Jonathan and Horwitz, Eliahu and Shuval, Imri and Hoshen, Yedid},
+  journal={arXiv preprint arXiv:2410.10811},
+  year={2024}
+}
 ```
 
 ## Acknowledgments
